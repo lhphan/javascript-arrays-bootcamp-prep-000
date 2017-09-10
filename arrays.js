@@ -20,15 +20,15 @@ function destructivelyAddElementToEndOfArray(array, element){
   return array
 }
 
-// function accessElementInArray(array, index){
-//   return array[index]
-// }
-//
-// function destructivelyRemoveElementFromBeginningOfArray(array){
-//   array.shift()
-//   return array
-// }
-//
+function accessElementInArray(array, index){
+  return array[index]
+}
+
+function destructivelyRemoveElementFromBeginningOfArray(array){
+  array.shift()
+  return array
+}
+
 // function removeElementFromEndOfArray(array){
 //   var newArray3 = array.slice(1)
 //   return newArray3
