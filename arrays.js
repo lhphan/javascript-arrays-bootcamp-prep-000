@@ -30,8 +30,8 @@ function addElementToEndOfArray(array, element){
 // }
 //
 // function removeElementFromEndOfArray(array){
-//   var newArray = array.slice(1)
-//   return newArray
+//   var newArray3 = array.slice(1)
+//   return newArray3
 // }
 //
 // function destructivelyRemoveElementFromEndOfArray(array){
@@ -40,6 +40,6 @@ function addElementToEndOfArray(array, element){
 // }
 //
 // function removeElementFromEndOfArray(array){
-//   var newArray = array.slice(0, array.length -1)
-//   return newArray
+//   var newArray4 = array.slice(0, array.length -1)
+//   return newArray4
 // }
