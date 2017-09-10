@@ -29,17 +29,17 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
   return array
 }
 
-// function removeElementFromEndOfArray(array){
-//   var newArray3 = array.slice(1)
-//   return newArray3
-// }
+function removeElementFromEndOfArray(array){
+  // var newArray3 = array.slice(1)
+  // return newArray3
+}
 
 function destructivelyRemoveElementFromEndOfArray(array){
   array.pop()
   return array
 }
 
-// function removeElementFromEndOfArray(array){
-//   var newArray4 = array.slice(0, array.length -1)
-//   return newArray4
-// }
+function removeElementFromEndOfArray(array){
+  // var newArray4 = array.slice(0, array.length -1)
+  // return newArray4
+}
